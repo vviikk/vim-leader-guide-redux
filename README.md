@@ -1,3 +1,5 @@
+NOTE: This is a repository that hosts the now missing spinks/vim-leader-guide from [Ben Spinks](mailto:32001471+spinks@users.noreply.github.com). Original URL would have been https://github.com/spinks/vim-leader-guide.
+
 # vim-leader-guide
 
 vim-leader-guide is a vim keymap-display loosely inspired by emacs's [guide-key](https://github.com/kai2nenobu/guide-key).
